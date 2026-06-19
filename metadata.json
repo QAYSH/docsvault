@@ -1,0 +1,6 @@
+{
+  "name": "PDF Previewer and File Manager",
+  "description": "A premium, dark-themed glassmorphic web application for uploading, storing, previewing, downloading, and deleting PDFs and other files persistently using IndexedDB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
